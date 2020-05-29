@@ -143,18 +143,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"insert",
+						"insert_vertex"
+					],
+					[
+						"get",
+						"getSeconds"
+					],
+					[
+						"its",
+						"itsSource"
+					],
+					[
+						"itS",
+						"itsSource"
+					],
+					[
+						"Ob",
+						"Observer"
+					],
+					[
+						"iter",
+						"Iterator"
+					],
+					[
+						"ass",
+						"assertSinkEquals"
+					],
+					[
+						"asse",
+						"assetSinkEquals"
+					],
+					[
+						"assert",
+						"assertEquals"
+					],
+					[
+						"op",
+						"option\tTag"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -188,10 +220,11 @@
 			},
 			"file_history":
 			[
+				"/C/Users/user/Desktop/a.py"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -205,6 +238,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Seconds",
+					"firstThrow"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -222,43 +257,14 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/Java/Java.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -296,7 +302,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
